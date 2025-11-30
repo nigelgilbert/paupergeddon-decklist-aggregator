@@ -1,0 +1,27 @@
+12 Forest
+1 Gingerbread Cabin
+4 Timberwatch Elf
+4 Nyxborn Hydra
+4 Priest of Titania
+4 Jaspera Sentinel
+2 Fyndhorn Elves
+2 Llanowar Elves
+3 Birchlore Rangers
+2 Rift Sower
+3 Winding Way
+3 Lead the Stampede
+2 Distant Melody
+3 Elvish Vanguard
+2 Wellwisher
+4 Quirion Ranger
+1 Mob Justice
+1 Tuktuk Rubblefort
+3 Generous Ent
+
+
+4 Hydroblast
+3 Hallow
+2 Masked Vandal
+2 Negate
+2 Nylea's Disciple
+2 Weather the Storm

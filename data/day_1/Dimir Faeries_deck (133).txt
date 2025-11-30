@@ -1,0 +1,32 @@
+11 island
+1 swamp
+1 bojuka bog
+4 contaminated aquifer
+1 foreboding landscape
+4 faerie seer
+4 faerie miscreant
+4 spellstutter sprite
+3 augur of bolas
+2 thorn of the black rose
+1 mukotai ambusher
+2 ninja of the deep hours
+2 moon-circuit hacker
+1 preordain
+4 snuff out
+3 cast down
+4 counterspell
+1 dispel
+1 suffocating fumes
+2 brainstorm
+4 Lórien Revealed
+
+
+2 relic of progenitus
+1 murmuring mystic
+1 dispel
+1 arms of hadar
+1 extract a confession
+1 hydroblast
+4 blue elemental blast
+3 steel sabotage
+1 mukotai ambusher

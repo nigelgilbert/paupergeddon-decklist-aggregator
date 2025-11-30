@@ -1,0 +1,27 @@
+1 Azure Fleet Admiral
+2 Crimson Fleet Commodore
+3 Murmuring Mystic
+4 Tolarian Terror
+9 Snow-Covered Island
+3 Snow-Covered Mountain
+4 Volatile Fjord
+2 Perilous Landscape
+4 Lórien Revealed
+1 Behold the Multiverse
+4 Ponder
+4 Brainstorm
+1 Preordain
+4 Counterspell
+3 Spell Pierce
+1 Lose Focus
+4 Lightning Bolt
+4 Skred
+2 Breath Weapon
+
+
+4 Hydroblast
+3 Red Elemental Blast
+1 Envelop
+1 Dispel
+3 Cast into the Fire
+3 Annul

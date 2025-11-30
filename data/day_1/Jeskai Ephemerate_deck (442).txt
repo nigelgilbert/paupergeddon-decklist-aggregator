@@ -1,0 +1,39 @@
+1 Glacial Floodplain
+1 Perilous Landscape
+1 Razortide Bridge
+4 Rustvale Bridge
+3 Silverbluff Bridge
+3 Snow-Covered Island
+2 Snow-Covered Mountain
+3 Snow-Covered Plains
+1 Volatile Fjord
+2 Dispel
+3 Ephemerate
+3 Lightning Bolt
+3 Skred
+2 Augur of Bolas
+4 Cleansing Wildfire
+4 Counterspell
+1 Destroy Evil
+1 Suplex
+1 Thraben Charm
+1 Breath Weapon
+1 Mysidian Elder
+2 Union of the Third Path
+2 Archaeomancer
+1 Ardent Elementalist
+1 Late to Dinner
+2 Murmuring Mystic
+1 Stonehorn Dignitary
+4 Lórien Revealed
+3 Mulldrifter
+
+
+3 Blue Elemental Blast
+1 Hydroblast
+2 Pyroblast
+2 Red Elemental Blast
+4 Cast into the Fire
+1 Destroy Evil
+1 Thraben Charm
+1 Union of the Third Path

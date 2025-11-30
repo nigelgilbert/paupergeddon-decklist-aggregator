@@ -1,0 +1,29 @@
+4 Counterspell
+9 Snow-Covered Island
+4 Volatile Fjord
+2 Murmuring Mystic
+2 Torch the Tower
+2 Preordain
+4 Tolarian Terror
+4 Lightning Bolt
+4 Ponder
+2 Azure Fleet Admiral
+1 Crimson Fleet Commodore
+1 Breath Weapon
+2 Spell Pierce
+1 Dispel
+4 Skred
+4 Brainstorm
+3 Snow-Covered Mountain
+4 Lórien Revealed
+1 Fiery Cannonade
+1 Bountiful Landscape
+1 Perilous Landscape
+
+
+2 Annul
+2 Campfire
+3 Blue Elemental Blast
+3 Red Elemental Blast
+3 Cast into the Fire
+2 Relic of Progenitus

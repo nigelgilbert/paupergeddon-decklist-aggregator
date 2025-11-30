@@ -1,0 +1,24 @@
+4 Ancient Den
+4 Great Furnace
+3 Razortide Bridge
+3 Rustvale Bridge
+4 Seat of the Synod
+2 Silverbluff Bridge
+3 Navigator's Compass
+4 Voldaren Epicure
+4 Galvanic Blast
+4 Experimental Synthesizer
+4 Glint Hawk
+4 Kor Skyfisher
+2 Thraben Charm
+3 Cryogen Relic
+4 Frogmite
+4 Thoughtcast
+4 Myr Enforcer
+
+
+2 Destroy Evil
+2 Thraben Charm
+4 Hydroblast
+4 Pyroblast
+3 Cast into the Fire

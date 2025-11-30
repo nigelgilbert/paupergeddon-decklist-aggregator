@@ -5,7 +5,7 @@ Aggregates Magic: The Gathering decklists and outputs card frequencies.
 ## Usage
 
 ```bash
-node src/aggregate-decklists.js day_1 > aggregate.txt
+node src/aggregate_decklists.js day_1 > aggregate.txt
 ```
 
 ## Output

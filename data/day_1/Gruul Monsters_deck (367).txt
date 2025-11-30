@@ -1,0 +1,20 @@
+14 Forest
+2 Mountain
+4 Arbor Elf
+4 Avenging Hunter
+4 Bannerhide Krushok
+4 Eldrazi Repurposer
+4 Jewel Thief
+4 Nyxborn Hydra
+4 Writhing Chrysalis
+4 Malevolent Rumble
+4 Ram Through
+4 Utopia Sprawl
+4 Wild Growth
+
+
+3 Breath Weapon
+3 Deglamer
+4 weather the storm
+2 heritage reclamation
+3 Cast into the Fire
