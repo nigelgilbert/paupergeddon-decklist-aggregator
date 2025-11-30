@@ -1,0 +1,1 @@
+Please unzip the files for `day_1` and `day_2` in this `data/` directory!

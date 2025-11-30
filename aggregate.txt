@@ -1,0 +1,885 @@
+3132 Mountain
+2758 Island
+1931 Forest
+1366 Swamp
+1135 Pyroblast
+904 Hydroblast
+874 Lórien Revealed
+868 Lightning Bolt
+846 Counterspell
+810 Weather The Storm
+775 Red Elemental Blast
+751 Cast Down
+735 Voldaren Epicure
+728 Blue Elemental Blast
+698 Ichor Wellspring
+667 Brainstorm
+661 Nihil Spellbomb
+659 Refurbished Familiar
+622 Writhing Chrysalis
+618 Fanatical Offering
+589 Plains
+582 Relic Of Progenitus
+567 Sneaky Snacker
+535 Breath Weapon
+535 Cast Into The Fire
+532 Galvanic Blast
+527 Duress
+519 Grab The Prize
+518 Fiery Temper
+514 Drossforge Bridge
+499 Avenging Hunter
+480 Tolarian Terror
+465 Lava Dart
+463 Generous Ent
+463 Vault Of Whispers
+455 Highway Robbery
+453 Faerie Macabre
+439 Great Furnace
+432 Thought Scour
+430 Nyxborn Hydra
+425 Annul
+411 Eviscerator's Insight
+411 Faithless Looting
+410 Mental Note
+399 Thraben Charm
+399 Kessig Flamebreather
+394 Cryptic Serpent
+386 Krark-Clan Shaman
+384 Dispel
+381 Fireblast
+378 Lembas
+376 Masked Vandal
+375 Lead The Stampede
+366 Winding Way
+359 Guttersnipe
+351 Cleansing Wildfire
+350 Malevolent Rumble
+338 Ponder
+320 Delver Of Secrets // Insectile Aberration
+309 Twisted Landscape
+306 Dust To Dust
+298 Utopia Sprawl
+298 Slagwoods Bridge
+297 Thoughtcast
+292 Blood Fountain
+290 Myr Enforcer
+286 Snow-Covered Island
+284 Sagu Wildling // Roost Seek
+283 Kor Skyfisher
+277 Reckoner's Bargain
+273 End The Festivities
+271 Mistvault Bridge
+270 Bojuka Bog
+267 Murmuring Mystic
+267 Quirion Ranger
+262 Arbor Elf
+248 Experimental Synthesizer
+247 Steel Sabotage
+246 Toxin Analysis
+244 Goblin Tomb Raider
+244 Clockwork Percussionist
+241 Gut Shot
+239 Snuff Out
+238 Khalni Garden
+233 Snap
+233 Cryogen Relic
+231 Troublemaker Ouphe
+229 Searing Blaze
+227 Wild Growth
+222 Spellstutter Sprite
+218 Prismatic Strands
+214 Troll Of Khazad-dûm
+213 Priest Of Titania
+212 Mesmeric Fiend
+210 Seat Of The Synod
+209 Eldrazi Repurposer
+207 Tithing Blade // Consuming Sepulcher
+198 Timberwatch Elf
+196 Sleep Of The Dead
+195 Force Spike
+193 Spell Pierce
+193 Jewel Thief
+192 Glint Hawk
+191 Faerie Seer
+188 Envelop
+180 Preordain
+179 Goblin Bushwhacker
+178 Ram Through
+175 Faerie Miscreant
+174 Vitu-Ghazi Inspector
+172 Journey To Nowhere
+172 Land Grant
+170 Ninja Of The Deep Hours
+168 Moon-Circuit Hacker
+168 Defile
+167 Squadron Hawk
+166 Llanowar Elves
+165 Deglamer
+164 Burning-Tree Emissary
+164 Rally At The Hornburg
+163 Crypt Rats
+159 Thorn Of The Black Rose
+157 Negate
+156 Silverbluff Bridge
+156 Chain Lightning
+153 Bannerhide Krushok
+152 Overgrown Battlement
+151 Thraben Inspector
+148 Balustrade Spy
+147 Deep Analysis
+147 Drown In Sorrow
+146 Saruli Caretaker
+144 Basilisk Gate
+141 Snow-Covered Mountain
+141 Smash To Smithereens
+140 Urza's Mine
+140 Urza's Power Plant
+140 Urza's Tower
+139 Citadel Gate
+137 Nylea's Disciple
+136 Black Mage's Rod
+135 Deem Inferior
+134 The Modern Age // Vector Glider
+133 Expedition Map
+132 Makeshift Munitions
+132 Of One Mind
+131 Prophetic Prism
+131 Mulldrifter
+129 Fyndhorn Elves
+128 Campfire
+128 Navigator's Compass
+128 Sacred Cat
+126 Gixian Infiltrator
+124 God-Pharaoh's Faithful
+124 Sunscape Familiar
+123 Ancient Den
+123 Sea Gate
+122 Azorius Chancery
+122 Snow-Covered Forest
+119 Wrenn's Resolve
+118 Pulse Of Murasa
+118 Accursed Marauder
+117 Masked Meower
+116 Extract A Confession
+116 Wellwisher
+115 Contaminated Aquifer
+115 Boarding Party
+113 Wall Of Roots
+112 Reckless Impulse
+109 Elvish Mystic
+104 Gatecreeper Vine
+101 Archaeomancer
+101 Dread Return
+101 Lotleth Giant
+100 Heap Gate
+99 Candy Trail
+99 Lotus Petal
+99 Brinebarrow Intruder
+98 Novice Inspector
+97 Suplex
+96 Bind The Monster
+92 Jagged Barrens
+92 Alms Of The Vein
+92 Kitchen Imp
+92 Battle Screech
+91 Tormod's Crypt
+91 Healer Of The Glade
+89 Heritage Reclamation
+87 Vampire's Kiss
+87 Raffine's Informant
+86 Outlaw Medic
+86 Unexpected Fangs
+84 Ephemerate
+84 Ghostly Flicker
+84 Carrion Feeder
+84 Mortician Beetle
+83 Sea Gate Oracle
+82 Razortide Bridge
+81 Contaminated Landscape
+81 Goldmire Bridge
+81 Skred
+80 Rustvale Bridge
+80 Arms Of Hadar
+80 Nested Shambler
+79 Moment's Peace
+78 Village Rites
+78 Lunarch Veteran // Luminous Phantom
+77 Chromatic Star
+77 Destroy Evil
+76 Myr Retriever
+75 Meeting Of Minds
+75 Prohibit
+75 Infestation Sage
+75 Nezumi Linkbreaker
+74 Suffocating Fumes
+72 Shambling Ghast
+71 Annoyed Altisaur
+69 Tectonic Hazard
+68 Stonehorn Dignitary
+68 Bloodthrone Vampire
+67 Pactdoll Terror
+66 Electrickery
+66 Augur Of Bolas
+66 Illvoi Galeblade
+66 Martyr Of Sands
+65 Vines Of Vastwood
+64 Standard Bearer
+64 Flaring Pain
+63 Volatile Fjord
+61 Grim Bauble
+59 Horrific Assault
+59 Supernatural Stamina
+58 Harrier Strix
+58 Summon: Choco/Mog
+56 Temporal Intervention
+56 Ethereal Armor
+55 Circle Of Protection: Blue
+55 Witch's Cottage
+54 Ashnod's Altar
+53 Gurmag Angler
+53 Haunted Mire
+52 Abundant Growth
+52 Armadillo Cloak
+52 Boomerang
+51 Azorius Guildgate
+50 Conduit Pylons
+50 Ancient Grudge
+50 Rotten Reunion
+50 Rancor
+49 Golem Foundry
+49 Mwonvuli Acid-Moss
+49 Razortrap Gorge
+48 Birchlore Rangers
+48 Jaspera Sentinel
+48 Unearth
+48 Gingerbrute
+47 Idyllic Beachfront
+47 Black Dragon Gate
+47 Gladecover Scout
+47 Ancestral Mask
+46 Energy Refractor
+46 Slippery Bogle
+45 Guardians' Pledge
+44 Fang Dragon // Forktail Sweep
+44 Thermokarst
+44 Elves Of Deep Shadow
+43 Fangren Marauder
+43 Cuombajj Witches
+43 Sylvok Lifestaff
+42 Guardian Of The Guildpact
+41 Last Breath
+41 Idyllic Grange
+40 Mukotai Ambusher
+40 Impulse
+40 Corrupted Conviction
+40 Rite Of Consumption
+40 Tinder Wall
+37 Scattershot Archer
+37 Spinning Darkness
+37 Thermo-Alchemist
+36 Hunter's Blowgun
+36 Gnaw To The Bone
+36 Tragic Slip
+36 Perigee Beckoner
+35 Essence Scatter
+35 Silhana Ledgewalker
+35 Holy Light
+34 Mortuary Mire
+34 Monstrous Emergence
+34 Unable To Scream
+32 Metallic Rebuke
+32 Stinkweed Imp
+32 Scrapwork Mutt
+31 Crop Rotation
+31 Perilous Landscape
+31 Fiery Cannonade
+31 Exhume
+31 Piracy Charm
+31 Persistent Petitioners
+30 Mnemonic Wall
+30 Viridian Longbow
+30 Axebane Guardian
+29 Ash Barrens
+29 Reaping The Graves
+29 Artful Dodge
+29 Spinewoods Paladin
+29 Gearseeker Serpent
+29 Eagles Of The North
+28 Myr Kinsmith
+28 Mask Of Law And Grace
+28 Azure Fleet Admiral
+28 Ice Tunnel
+28 Spider-Man, Web-Slinger
+28 Haunting Misery
+27 Tangle
+27 Crypt Incursion
+27 Abandon Attachments
+27 Rakdos Carnarium
+26 Crimson Fleet Commodore
+25 Manor Gate
+25 Sazacap's Brew
+25 Elven Farsight
+24 Tamiyo's Safekeeping
+24 Seething Landscape
+24 Satyr Wayfinder
+24 You Meet In A Tavern
+24 Humbling Elder
+23 Golgari Rot Farm
+23 Sentinel's Eyes
+23 Shattered Landscape
+22 Mystical Teachings
+22 Hallow
+22 Spirit Link
+22 Nutrient Block
+22 Reckless Lackey
+21 Rowan's Grim Search
+21 Lose Focus
+21 Go For The Throat
+21 Gorilla Shaman
+21 Bountiful Landscape
+21 Life Goes On
+20 Palace Sentinels
+20 Okiba-Gang Shinobi
+20 Town Greeter
+20 Maelstrom Colossus
+19 Glacial Floodplain
+19 Snow-Covered Plains
+19 Conjurer's Bauble
+19 Street Wraith
+19 Cauldron Familiar
+19 Shrivel
+19 Holdout Settlement
+19 Acorn Harvest
+18 Tangled Islet
+18 Barren Moor
+18 Songs Of The Damned
+18 Dark Ritual
+18 Kenku Artificer
+18 Dark Withering
+17 Benevolent Blessing
+17 Dawnbringer Cleric
+17 Wind-Scarred Crag
+17 Pestilence
+17 Molten Gatekeeper
+17 Wrap In Vigor
+16 Crystal Grotto
+16 Stream Of Thought
+16 Radiant Fountain
+16 Hyena Umbra
+16 Apostle's Blessing
+16 Drannith Healer
+16 Drannith Stinger
+16 Monstrous Carabid
+16 Cabal Ritual
+16 Retraction Helix
+16 Feed The Clan
+16 Orzhov Basilica
+16 Drift Of Phantasms
+15 Heaped Harvest
+15 Glistener Elf
+15 Imposing Vantasaur
+15 Steelfin Whale
+15 Stormshriek Feral // Flush Out
+15 Wooded Ridgeline
+15 Oliphaunt
+15 Stone Rain
+15 Ornithopter
+15 Mutagenic Growth
+15 Galvanic Discharge
+15 Manamorphose
+15 Mine Collapse
+15 Greatsword Of Tyr
+14 Lifelink
+14 Boros Garrison
+14 Horror Of The Broken Lands
+14 Springleaf Drum
+14 Circle Of The Land Druid
+14 Pond Prophet
+14 Reckless Abandon
+14 Ramosian Rally
+13 Ride's End
+13 Glorious Gale
+13 Revoke Existence
+13 Simic Growth Chamber
+13 Spider Manifestation
+13 Gingerbread Cabin
+12 Haunted Fengraf
+12 Siege Smash
+12 Hard Evidence
+12 Fog
+12 FOREST
+12 Jolted Awake
+12 Chitin Gravestalker
+12 Ashes To Ashes
+12 Frogmite
+12 Torch The Tower
+12 Pentad Prism
+12 Experimental Augury
+12 Contentious Plan
+12 Vivisurgeon's Insight
+12 Hickory Woodlot
+12 Saprazzan Skerry
+12 Gemhide Sliver
+12 Sinew Sliver
+12 Muscle Sliver
+12 Plated Sliver
+12 Predatory Sliver
+12 Shield-Wall Sentinel
+12 Sunlance
+12 Inventor's Axe
+12 Glistener Seer
+12 Mothdust Changeling
+11 Tooth Of Chiss-Goria
+11 Geothermal Bog
+11 Crashing Drawbridge
+11 Vitu-ghazi Inspector
+11 Mysidian Elder
+11 Dai Li Indoctrination
+11 Union Of The Third Path
+11 Steady Progress
+11 Infectious Inquiry
+11 Jack-o'-Lantern
+11 Mardu Devotee
+10 Abjure
+10 Crimson Acolyte
+10 Omen Of The Dead
+10 Elvish Vanguard
+10 Tuktuk Rubblefort
+10 Boulderbranch Golem
+10 Unwind
+10 Dreams Of Laguna
+10 Ashen-Skin Zubera
+10 Escape Tunnel
+10 Blight Mamba
+10 Raze
+10 Peat Bog
+10 Mirrorshell Crab
+10 Salt Road Packbeast
+9 Wizard's Rockets
+9 Cartouche Of Solidarity
+9 Disrupt
+9 Foreboding Landscape
+9 Pinnacle Kill-Ship
+9 Drownyard Lurker
+9 Warped Tusker
+9 Pilfer
+9 Sadistic Glee
+9 Snaremaster Sprite
+9 Demand Answers
+9 Smash To Dust
+9 Fume Spitter
+8 Growth Spiral
+8 Nature's Claim
+8 Seeker Of The Way
+8 Dimir Aqueduct
+8 Thriving Moor
+8 Coffin Purge
+8 First Day Of Class
+8 Goblin Matron
+8 Putrid Goblin
+8 Skirk Prospector
+8 Skyshaper
+8 Ichorclaw Myr
+8 Llanowar Augur
+8 Embiggen
+8 Snakeskin Veil
+8 Highway Robber
+8 Lagonna-Band Trailblazer
+8 Solid Footing
+8 Sidewinder Sliver
+8 Winged Sliver
+8 Orochi Leafcaller
+8 Steadfast Unicorn
+8 Ancient Stirrings
+7 Scattershot
+7 Trespasser's Curse
+7 Circle Of Protection: Red
+7 Tree Of Tales
+7 Deceptive Landscape
+7 Abraded Bluffs
+7 Melded Moxite
+7 Kabira Crossroads
+7 Distant Melody
+7 Fierce Empath
+7 Colossal Dreadmask
+7 Highland Forest
+7 Llanowar Visionary
+7 Gray Merchant Of Asphodel
+7 Contaminated Ground
+7 Echoing Truth
+7 Might Of Old Krosa
+7 Flash Of Defiance
+7 Skyward Spider
+7 Bring The Ending
+7 Militia Bugler
+6 Remove Soul
+6 Darkness
+6 Sheltering Landscape
+6 Instant Ramen
+6 Moon-circuit Hacker
+6 Nausea
+6 Nullify
+6 Cliffgate
+6 Snow-Covered Swamp
+6 Cathartic Reunion
+6 Bramble Wurm
+6 Shinen Of Life's Roar
+6 Lone Missionary
+6 Barrels Of Blasting Jelly
+6 Turn Aside
+6 Conclave Naturalists
+6 Witch's Mark
+6 Not Dead After All
+6 Armored Armadillo
+6 Emerge Unscathed
+6 Homestead Courage
+6 Sandstone Bridge
+6 Deftblade Elite
+6 Shield Of Duty And Reason
+6 Sandstone Needle
+6 Crypt Sliver
+6 Thriving Grove
+6 Hunter Sliver
+6 Beastrider Vanguard
+6 Hinterland Sanctifier
+6 Tanglepool Bridge
+5 Obsidian Acolyte
+5 Respite
+5 Arcane Denial
+5 Behold The Multiverse
+5 Thornwood Falls
+5 Sandstorm
+5 Freewind Falcon
+5 Rimewood Falls
+5 Radiant Grove
+5 Dihada's Ploy
+5 Webweaver Changeling
+5 Orzhov Guildgate
+5 Dinrova Horror
+5 Origin Of Metalbending
+5 Krark-clan Shaman
+5 Arboreal Grazer
+5 Pick Your Poison
+5 Summon: Fat Chocobo
+5 Darkmoss Bridge
+5 Dwarven Forge-Chanter
+5 Prologue To Phyresis
+5 Swarm, Being Of Bees
+5 Sentinel Sliver
+5 Essence Warden
+5 Virulent Sliver
+5 Simian Spirit Guide
+4 Abrade
+4 Eerie Gravestone
+4 Hidden Grotto
+4 Foil
+4 Desert
+4 Accumulated Knowledge
+4 Spider Umbra
+4 SLIPPERY BOGLE
+4 GLADECOVER SCOUT
+4 ETHEREAL ARMOR
+4 UTOPIA SPRAWL
+4 ABUNDANT GROWTH
+4 ARMADILLO CLOAK
+4 MALEVOLENT RUMBLE
+4 ANCESTRAL MASK
+4 GLISTENER ELF
+4 BLIGHTED AGENT
+4 Heliod's Pilgrim
+4 Adventurer's Inn
+4 Blood Celebrant
+4 Dream Stalker
+4 Hopeless Nightmare
+4 Darksteel Citadel
+4 Mirran Spy
+4 Trailblazer's Torch
+4 Chainer's Edict
+4 Consider
+4 Crawl From The Cellar
+4 Nettle Sentinel
+4 Gift Of The Viper
+4 Migrating Ketradon
+4 Rush Of Knowledge
+4 Gleeful Sabotage
+4 Molten Tributary
+4 Guildsworn Prowler
+4 Malakir Blood-Priest
+4 Stickytongue Sentinel
+4 Vincent's Limit Break
+4 Carrot Cake
+4 Debt To The Kami
+4 Temur Battle Rage
+4 Nest Invader
+4 Evolution Witness
+4 Rite Of Flame
+4 Kiln Fiend
+4 Festival Crasher
+4 Satyr Hoplite
+4 Fungal Colossus
+4 Mephitic Draught
+4 Saiba Cryptomancer
+4 Frantic Inventory
+4 Dragon Wings
+4 Go Forth
+4 Fire // Ice
+4 Thunderous Wrath
+4 Skewer The Critics
+4 Rift Bolt
+4 Lava Spike
+4 Thirsting Roots
+4 Blossoming Sands
+4 Sylvan Ranger
+4 Sakura-Tribe Elder
+4 Freed From The Real
+4 Galvanic Alchemist
+4 Secret Door
+4 Valakut Invoker
+4 Pay No Heed
+4 Implement Of Combustion
+4 Nightscape Familiar
+4 Gene Pollinator
+4 Lurking Lizards
+4 Fortress Kin-Guard
+4 Judge's Familiar
+4 Raise The Alarm
+4 Search Party Captain
+4 Peach Garden Oath
+4 Luxknight Breacher
+4 Pillage
+4 Bone Picker
+4 Phyrexian Rager
+4 Sign In Blood
+4 Iron Giant
+4 Self-Assembler
+4 Goliath Paladin
+4 Izzet Boilerworks
+4 Forecasting Fortune Teller
+3 Kruphix's Insight
+3 Nimbus Wings
+3 SILHANA LEDGEWALKER
+3 SEED OF HOPE
+3 RANCOR
+3 PLAINS
+3 Divest
+3 Spectacular Tactics
+3 Planar Incision
+3 Geistwave
+3 Diabolic Edict
+3 Survivors' Encampment
+3 Ray Of Revelation
+3 Spider-Man, Brooklyn Visionary
+3 Dwynen's Elite
+3 Trapped In The Screen
+3 Swirling Sandstorm
+3 Wretched Gryff
+3 Serene Heart
+3 Compulsive Research
+3 Last Rites
+3 City Pigeon
+3 Introduction To Prophecy
+3 Glimpse The Impossible
+3 Bushwhack
+3 Ancestral Anger
+3 Brute Force
+3 Plagued Rusalka
+3 Wedding Invitation
+3 Stormbound Geist
+3 Mana Leak
+3 Rot Wolf
+3 Aspect Of Hydra
+3 Karametra's Favor
+3 Swiftwater Cliffs
+3 Tandem Lookout
+3 Vapor Snag
+3 Sigil Of Sleep
+3 Lightning Axe
+3 Improvised Club
+3 Akroan Skyguard
+3 Scoured Barrens
+3 Everflowing Chalice
+3 Bone Shards
+3 Rally The Peasants
+3 Goblin Arsonist
+3 Goblin Grenade
+3 Unfathomable Truths
+3 Bellowing Crier
+3 Foundry Helix
+3 Phyrexian Walker
+3 Reverse Engineer
+2 Tranquil Landscape
+2 Prosperous Pirates
+2 Rhystic Study
+2 Words Of Wisdom
+2 Muddle The Mixture
+2 MASK OF LAW AND GRACE
+2 PYROBLAST
+2 FREEWIND FALCON
+2 Rofellos's Gift
+2 Frantic Strength
+2 Aura Gnarlid
+2 Rest For The Weary
+2 Bitter Reunion
+2 Coalition Honor Guard
+2 Ardent Elementalist
+2 Repository Skaab
+2 Reality Acid
+2 Virus Beetle
+2 Banishing Knack
+2 Dire Mimic
+2 Moonsnare Prototype
+2 Eaten Alive
+2 Dismal Backwater
+2 Mephitic Vapors
+2 Agony Warp
+2 Vampiric Link
+2 Momentary Blink
+2 Ulamog's Crusher
+2 Dragon Breath
+2 Undying Evil
+2 Burning Inquiry
+2 Insolent Neonate
+2 Rift Sower
+2 Shield Wall
+2 Spidersilk Armor
+2 Lys Alana Huntmaster
+2 Taunting Elf
+2 River Boa
+2 Unholy Heat
+2 Thraben Exorcism
+2 Shattering Blow
+2 Kaervek's Torch
+2 Remote Isle
+2 Rolling Thunder
+2 Shelob's Ambush
+2 Fungal Infection
+2 Candy Grapple
+2 Dark-Dweller Oracle
+2 Maximum Overdrive
+2 Barge In
+2 Hand Of Emrakul
+2 Abundant Harvest
+2 Crash Through
+2 Assault Strobe
+2 Reckless Charge
+2 Galvanize
+2 Late To Dinner
+2 Distress
+2 Cryoshatter
+2 Smoke Shroud
+2 Security Bypass
+2 Sunken City
+2 Unstable Experiment
+2 Fade Away
+2 Snake Umbra
+2 Seal Of Strength
+2 Thermo-alchemist
+2 Curse Of The Pierced Heart
+2 Maestros Theater
+2 Hearth Charm
+2 Tectonic Rift
+2 Tectonic Edge
+2 Thrummingbird
+2 Honorable Scout
+2 Thriving Heath
+2 Commune With Nature
+2 Rust
+2 Dimir House Guard
+2 Ticket Tortoise
+2 Disfigure
+2 Mana Tithe
+2 Harsh Sustenance
+2 Guerrilla Tactics
+2 Opt
+2 Reality Ripple
+2 Artificer's Assistant
+2 Silver Raven
+2 Rites Of Initiation
+2 Reckless Fireweaver
+2 Etherium Spinner
+2 Goldhound
+2 Benevolent Bodyguard
+2 Molten Rain
+2 Gruul Turf
+2 Dauthi Slayer
+2 Universal Automaton
+2 Entourage Of Trest
+2 Magmatic Sinkhole
+1 Fight On!
+1 Polluted Mire
+1 Sage's Row Denizen
+1 False Summoning
+1 Merchant Scroll
+1 Nature's Chant
+1 Foundry Inspector
+1 Chromatic Sphere
+1 Moment Of Craving
+1 Quandrix Campus
+1 Circle Of Protection: Green
+1 Gift Of Orzhova
+1 SENTINEL'S EYES
+1 UNBRIDLED GROWTH
+1 SPIRIT LINK
+1 ASH BARRENS
+1 THRABEN CHARM
+1 Warbriar Blessing
+1 Sun-Blessed Peak
+1 Blighted Agent
+1 Inner Fire
+1 Gilded Light
+1 Soul Manipulation
+1 Otherworldly Gaze
+1 Reasonable Doubt
+1 Scarab Feast
+1 Serpentine Curve
+1 Ebony Charm
+1 Stab
+1 Tasigur's Cruelty
+1 Woodland Chasm
+1 Ghastly Demise
+1 Mob Justice
+1 Spider-Rex, Daring Dino
+1 Titanic Growth
+1 Command Bridge
+1 Raven's Crime
+1 Barbed Batterfist
+1 Exclude
+1 Retrofitted Transmogrant
+1 Witherbloom Campus
+1 Doom Blade
+1 Firebending Lesson
+1 Forgotten Cave
+1 Goblin Tinkerer
+1 Impact Tremors
+1 Furnace Strider
+1 Red Mage's Rapier
+1 Fanged Flames
+1 Desert Sandstorm
+1 Feed The Swarm
+1 Orcish Medicine
+1 Ghoulcaller's Chant
+1 Dry Spell
+1 Tainted Strike
+1 Aqueous Form
+1 Deprive
+1 Halimar Depths
+1 Whiteout
+1 Cho-Manno's Blessing
+1 Blazing Volley
+1 Tocasia's Dig Site
+1 Serrated Arrows
+1 Ominous Asylum
+1 Quick Sliver
+1 Striking Sliver
+1 Heart Sliver
+1 Horned Sliver
+1 Dregscape Zombie
+1 Suture Priest
+1 Sunlit Marsh
+1 Sacred Peaks
+1 Mechanozoa
+1 Reap And Sow
+1 Bioshift
+1 Sword Coast Serpent // Capsizing Wave
+1 Utter Insignificance
