@@ -1,11 +1,12 @@
 # MTG Decklist Analysis
 
-Aggregates Magic: The Gathering decklists and outputs card frequencies.
+Aggregates Magic: The Gathering Paupergeddon Italy 2025 decklists and outputs card frequencies.
 
 ## Usage
 
 ```bash
 node src/aggregate_decklists.js day_1 > aggregate.txt
+node src/aggregate_decklists.js day_2 > day_2.txt
 ```
 
 ## Output
