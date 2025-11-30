@@ -1,4 +1,4 @@
-# MTG Decklist Analysis
+# MTG Paupergeddon Italy Decklist Aggregator
 
 Aggregates Magic: The Gathering Paupergeddon Italy 2025 decklists and outputs card frequencies.
 
