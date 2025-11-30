@@ -1,9 +1,9 @@
 /**
  * MTG Decklist Aggregation Tool
- * 
+ *
  * This script aggregates Magic: The Gathering decklists from a specified day's data
  * and outputs card frequencies sorted by popularity (most frequent cards first).
- * 
+ *
  * Usage: node aggregate-decklists.js <day_folder>
  * Example: node aggregate-decklists.js day_1
  */
@@ -27,7 +27,7 @@ const aggregateCardCounts = {};
 try {
   // Read all files in the specified day directory
   const files = fs.readdirSync(directoryPath);
-    
+
   files.forEach((file) => {
     const listPath = path.join(directoryPath, file);
     const decklistContent = fs.readFileSync(listPath, "utf-8");
@@ -50,13 +50,12 @@ try {
       }
     });
   });
-  
+
   Object.entries(aggregateCardCounts)
     .sort((a, b) => b[1] - a[1]) // Sort by count (descending)
     .forEach(([cardName, totalCount]) => {
       console.log(`${totalCount} ${cardName}`);
     });
-
 } catch (err) {
   console.error("Error processing decklists:", err);
   process.exit(1);
