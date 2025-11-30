@@ -7,8 +7,15 @@ describe("parseListLine", () => {
     expect(result).toEqual(["Lightning Bolt", 4]);
   });
 
-  it("should correct formatting errors in submitted lists", () => {
+  it("should correct undercaps errors in submitted lists", () => {
     const cases = ["1 annul", "4 lightning bolt"];
+    const results = cases.map(parseListLine);
+    expect(results[0]).toStrictEqual(["Annul", 1]);
+    expect(results[1]).toStrictEqual(["Lightning Bolt", 4]);
+  });
+
+  it("should correct all caps errors in submitted lists", () => {
+    const cases = ["1 ANNUL", "4 LIGHTNING BOLT"];
     const results = cases.map(parseListLine);
     expect(results[0]).toStrictEqual(["Annul", 1]);
     expect(results[1]).toStrictEqual(["Lightning Bolt", 4]);
